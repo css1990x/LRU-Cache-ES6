@@ -1,0 +1,23 @@
+{
+  "name": "lru-cache-es6",
+  "version": "1.0.0",
+  "description": "an LRU cache as an ES6 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/css1990x/LRU-Cache-ES6.git"
+  },
+  "author": "css1990x",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/css1990x/LRU-Cache-ES6/issues"
+  },
+  "homepage": "https://github.com/css1990x/LRU-Cache-ES6#readme",
+  "dependencies": {
+    "eslint": "^4.19.1",
+    "jshint": "^2.9.5"
+  }
+}
